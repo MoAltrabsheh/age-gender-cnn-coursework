@@ -1,1 +1,1 @@
-# age-gender-cnn-coursework
+# age-gender-CNN-coursework
